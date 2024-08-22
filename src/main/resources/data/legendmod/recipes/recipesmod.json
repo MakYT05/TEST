@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "MCK",
+    "   "
+  ],
+  "key": {
+    "M": {
+      "item": "legendmod:mandarin"
+    },
+    "C": {
+      "item": "legendmod:cherry"
+    },
+    "K": {
+      "item": "legendmod:kiwi"
+    }
+  },
+  "result": {
+    "item": "legendmod:fresh"
+  }
+}

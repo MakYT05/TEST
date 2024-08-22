@@ -1,0 +1,44 @@
+{
+  "metal": {
+    "subtitles": "sounds.legendmod.metal",
+    "sounds": [
+      "legendmod:metal"
+    ]
+  },
+  "sound_break": {
+    "subtitles": "sounds.legendmod.sound_break",
+    "sounds": [
+      "legendmod:sound_break"
+    ]
+  },
+  "sound_hit": {
+    "subtitles": "sounds.legendmod.sound_hit",
+    "sounds": [
+      "legendmod:sound_hit"
+    ]
+  },
+  "sound_place": {
+    "subtitles": "sounds.legendmod.sound_place",
+    "sounds": [
+      "legendmod:sound_place"
+    ]
+  },
+  "sound_place": {
+    "subtitles": "sounds.legendmod.sound_step",
+    "sounds": [
+      "legendmod:sound_step"
+    ]
+  },
+  "sound_fall": {
+    "subtitles": "sounds.legendmod.sound_fall",
+    "sounds": [
+      "legendmod:sound_fall"
+    ]
+  },
+  "sound_fall": {
+    "subtitles": "sounds.legendmod.sound_fall",
+    "sounds": [
+      "legendmod:sound_fall"
+    ]
+  }
+}

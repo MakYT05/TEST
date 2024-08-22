@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 100,
+  "experience": 1,
+  "group": "citrine",
+  "ingredient": {
+    "item": "legendmod:citrine_block"
+  },
+  "result": "legendmod:citrine"
+}

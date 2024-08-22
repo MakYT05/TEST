@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "legendmod:item.typo_mech_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "legendmod:item/typo_mech_2d"
+    },
+    "ground": {
+      "parent": "legendmod:item/typo_mech_2d"
+    },
+    "fixed": {
+      "parent": "legendmod:item/typo_mech_2d"
+    }
+  }
+}

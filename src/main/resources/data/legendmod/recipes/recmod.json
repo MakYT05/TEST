@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legendmod:mandarin"
+    },
+    {
+      "item": "legendmod:cherry"
+    },
+    {
+      "item": "legendmod:kiwi"
+    }
+  ],
+  "result": {
+    "item": "legendmod:fresh"
+  }
+}
